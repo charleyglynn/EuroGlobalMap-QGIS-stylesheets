@@ -33,3 +33,9 @@ Thanks to the guys at [EuroGeographics](http://www.eurogeographics.org/) for pro
 
 You are free to use these stylesheets however you want :)
 
+##Images
+
+![Example2](https://raw.githubusercontent.com/charleyglynn/EuroGlobalMap-QGIS-stylesheets/master/Images/EGM_2.png)
+
+![Example3](https://raw.githubusercontent.com/charleyglynn/EuroGlobalMap-QGIS-stylesheets/master/Images/EGM_3.png)
+

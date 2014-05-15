@@ -8,8 +8,7 @@ It is now available as opendata.
 
 ==============================
 
-![Example1](https://raw.githubusercontent.com/charleyglynn/EuroGlobalMap-QGIS-stylesheets
-/master/Images/EGM_1.png)
+![Example1](https://raw.githubusercontent.com/charleyglynn/EuroGlobalMap-QGIS-stylesheets/master/Images/EGM_1.png)
 
 ##Background
 
@@ -26,8 +25,7 @@ To fill in the sea tint you will need to set your background colour to **R** 159
 
 I recommend this layer order:
 
-![layers](https://raw.githubusercontent.com/charleyglynn/EuroGlobalMap-QGIS-stylesheets
-/master/Images/Layer_Order.png)
+![layers](https://raw.githubusercontent.com/charleyglynn/EuroGlobalMap-QGIS-stylesheets/master/Images/Layer_Order.png)
 
 ##Credit
 

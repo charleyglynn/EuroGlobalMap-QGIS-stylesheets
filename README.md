@@ -23,7 +23,7 @@ They have been made to work with ESRI Shapefiles [available here](http://www.eur
 
 To fill in the sea tint you will need to set your background colour to **R** 159 **G** 212 **B** 225.
 
-I recommend this layer order:
+I have only styled 14 of the layers to create a basemap and I recommend this layer order:
 
 ![layers](https://raw.githubusercontent.com/charleyglynn/EuroGlobalMap-QGIS-stylesheets/master/Images/Layer_Order.png)
 

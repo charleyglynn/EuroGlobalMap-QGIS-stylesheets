@@ -10,12 +10,12 @@ It is now available as opendata.
 
 ![Example1](https://raw.githubusercontent.com/charleyglynn/EuroGlobalMap-QGIS-stylesheets/master/Images/EGM_1.png)
 
-##Background
+## Background
 
 EuroGeographics recently made EuroGlobalMap available as open data.
 There aren't many stylesheets available for use with this data so I decided to make my own. 
 
-##Info
+## Info
 
 These stylesheets have been designed to work at various scales. I would recommend using them between 1:200,000 and 1:5,000,000
 
@@ -27,13 +27,13 @@ I have only styled 14 of the layers to create a basemap and I recommend this lay
 
 ![layers](https://raw.githubusercontent.com/charleyglynn/EuroGlobalMap-QGIS-stylesheets/master/Images/Layer_Order.png)
 
-##Credit
+## Credit
 
 Thanks to the guys at [EuroGeographics](http://www.eurogeographics.org/) for providing the ESRI Shapefiles and making them available as open data.
 
 You are free to use these stylesheets however you want :)
 
-##Images
+## Images
 
 ![Example2](https://raw.githubusercontent.com/charleyglynn/EuroGlobalMap-QGIS-stylesheets/master/Images/EGM_2.png)
 
